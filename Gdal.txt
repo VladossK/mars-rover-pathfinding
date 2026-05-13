@@ -1,0 +1,6 @@
+conda install conda-forge::gdal
+
+conda install -c conda-forge gdal
+
+conda install gdal
+conda upgrade numpy
